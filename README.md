@@ -1,2 +1,1 @@
-# USGS
- Pathways work for USGS-ASL
+ Pathways work for USGS-ASL.
