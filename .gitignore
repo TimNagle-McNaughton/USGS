@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+scan_classification/USGS.drawio - diagrams.net.webarchive
