@@ -114,3 +114,4 @@ dmypy.json
 .pyre/
 .DS_Store
 scan_classification/USGS.drawio - diagrams.net.webarchive
+snippets/2021-07-01.ipynb
